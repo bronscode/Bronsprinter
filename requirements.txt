@@ -1,0 +1,3 @@
+fpdf==1.7.2
+pycups==2.0.1
+requests==2.32.2
